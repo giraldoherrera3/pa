@@ -1,0 +1,364 @@
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+    background-image: url("imagen45.jpg");
+    
+    background-repeat: no-repeat;
+    
+    }
+    
+    
+    
+    .img{
+    
+    position: relative;
+    
+     
+    
+    width: 190px;
+    
+    height: 190px;
+    
+    border-radius: 10px;
+    
+    background-repeat: no-repeat;
+    
+     
+    
+    left: 180px;
+    
+    background-image: url("hello\ hyty.png");
+    
+    }
+    
+    .contenedor{
+    
+     
+    
+    height: 230px;
+    
+     
+    
+    }
+    
+    .texto{
+    
+    font-size: 40px;
+    
+    text-align: justify;
+    
+    color: brown;
+    
+     
+    
+    }
+    
+    .contenido{
+
+        height: 280px;
+        
+        width: 0%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagentecno{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("oso78.jpg");
+        
+        }
+        
+        
+        
+        .textotecno{
+        
+        text-align: justify;
+        
+        color: azure;
+        
+        font-size: 20px;
+        
+        
+        
+        }
+
+        
+        .contenidomate{
+
+            height: 280px;
+        
+            width: 0%;
+            
+            position: absolute;
+            
+            top: 410px;
+        }
+
+       .imagenmate{
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("hellokiti.webp");
+        
+       }
+      .textomate{
+        text-align: justify;
+        
+        color: azure;
+        
+        font-size: 20px;
+        
+
+
+      }
+      .contenidobiolo{
+
+        height: 280px;
+        
+        width: 0%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagenbiolo{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("hello\ kitty\ 2.jpg");
+        
+        }
+        
+        
+        
+        .textobiolo{
+        
+        text-align: justify;
+        
+        color: azure;
+        
+        font-size: 20px;
+        
+        
+        
+        }
+        .contenidoingles{
+
+          height: 280px;
+          
+          width: 0%;
+          
+          position: absolute;
+          
+          top: 410px;
+          
+           
+          
+          }
+          
+           
+          
+          .imageningles{
+          
+           
+          
+          background-repeat: no-repeat;
+          
+          float:left;
+          
+          height: 200px;
+          
+          width: 260px;
+          
+          margin-left: 5px;
+          
+          margin-right:5px;
+          
+          background-image: url("hello\ hyty.png");
+          
+          }
+          
+          
+          
+          .textoingles{
+          
+          text-align: justify;
+          
+          color: azure;
+          
+          font-size: 20px;
+          
+          
+          
+          }
+          .contenidoreli{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 410px;
+            
+             
+            
+            }
+            
+             
+            
+            .imagenreli{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 244px;
+            
+            width: 470px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("mapa\ budismo.png");
+            
+            }
+            
+            
+            
+            .textoreli{
+            
+            text-align: justify;
+            
+            color: azure;
+            
+            font-size: 20px;
+            
+            
+            
+            }
+            .contenidosocial{
+
+              height: 280px;
+              
+              width: 0%;
+              
+              position: absolute;
+              
+              top: 410px;
+              
+               
+              
+              }
+              
+               
+              
+              .imagensocial{
+              
+               
+              
+              background-repeat: no-repeat;
+              
+              float:left;
+              
+              height: 200px;
+              
+              width: 260px;
+              
+              margin-left: 5px;
+              
+              margin-right:5px;
+              
+              background-image: url("hello\ hyty.png");
+              
+              }
+              
+              
+              
+              .textosocial{
+              
+              text-align: justify;
+              
+              color: azure;
+              
+              font-size: 20px;
+              
+              
+              
+              }
+    
+    
+    
+  
+  
+  
+  
+          
+  
+  
+
+
+
+
+        
