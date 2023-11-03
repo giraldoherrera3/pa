@@ -1,364 +1,303 @@
 *{
 
-    padding: 0px;
-    
-    margin: 0px;
-    
-    }
-    
-    
-    
-    
-    body{
-    
-    background-image: url("imagen45.jpg");
-    
-    background-repeat: repeat;
-    
-    }
-    
-    
-    
-    .img{
-    
-    position: relative;
-    
-     
-    
-    width: 190px;
-    
-    height: 190px;
-    
-    border-radius: 10px;
-    
-    background-repeat: no-repeat;
-    
-     
-    
-    left: 180px;
-    
-    background-image: url("hello\ hyty.png");
-    
-    }
-    
-    .contenedor{
-    
-     
-    
-    height: 230px;
-    
-     
-    
-    }
-    
-    .texto{
-    
-    font-size: 40px;
-    
-    text-align: justify;
-    
-    color: brown;
-    
-     
-    
-    }
-    
-    .contenido{
-
-        height: 280px;
-        
-        width: 0%;
-        
-        position: absolute;
-        
-        top: 410px;
-        
-         
-        
-        }
-        
-         
-        
-        .imagentecno{
-        
-         
-        
-        background-repeat: no-repeat;
-        
-        float:left;
-        
-        height: 200px;
-        
-        width: 260px;
-        
-        margin-left: 5px;
-        
-        margin-right:5px;
-        
-        background-image: url("oso78.jpg");
-        
-        }
-        
-        
-        
-        .textotecno{
-        
-        text-align: justify;
-        
-        color: azure;
-        
-        font-size: 20px;
-        
-        
-        
-        }
-
-        
-        .contenidomate{
-
-            height: 280px;
-        
-            width: 0%;
-            
-            position: absolute;
-            
-            top: 410px;
-        }
-
-       .imagenmate{
-        background-repeat: no-repeat;
-        
-        float:left;
-        
-        height: 200px;
-        
-        width: 260px;
-        
-        margin-left: 5px;
-        
-        margin-right:5px;
-        
-        background-image: url("hellokiti.webp");
-        
-       }
-      .textomate{
-        text-align: justify;
-        
-        color: azure;
-        
-        font-size: 20px;
-        
-
-
+  padding: 0px;
+  
+  margin: 0px;
+  
+  }
+  
+  
+  
+  
+  body{
+  
+  background-image: url("imagen45.jpg");
+  
+  background-repeat: repeat;
+  
+  }
+  
+      
+      .contenedor{
+      
+       
+      
+      height: 1000px;
       }
-      .contenidobiolo{
-
-        height: 280px;
-        
-        width: 0%;
-        
-        position: absolute;
-        
-        top: 410px;
-        
-         
-        
-        }
-        
-         
-        
-        .imagenbiolo{
-        
-         
-        
-        background-repeat: no-repeat;
-        
-        float:left;
-        
-        height: 200px;
-        
-        width: 260px;
-        
-        margin-left: 5px;
-        
-        margin-right:5px;
-        
-        background-image: url("hello\ kitty\ 2.jpg");
-        
-        }
-        
-        
-        
-        .textobiolo{
-        
-        text-align: justify;
-        
-        color: azure;
-        
-        font-size: 20px;
-        
-        
-        
-        }
-        .contenidoingles{
+      .contenedor2{
+      
+       
+      
+          height: 1000px;
+          
+          
+           
+          
+          }
+      .texto{
+      
+      font-size: 40px;
+      
+      text-align: right;
+      
+      color: rgb(255, 255, 255);
+      
+       
+      
+      }
+      
+  
+      .contenido{
 
           height: 280px;
-          
-          width: 0%;
-          
+          width: 100%;
+          float: right;
           position: absolute;
-          
-          top: 410px;
-          
-           
+          color: white;
+          top: 300px;
           
           }
-          
-           
-          
-          .imageningles{
-          
-           
-          
-          background-repeat: no-repeat;
-          
-          float:left;
-          
-          height: 200px;
-          
-          width: 260px;
-          
-          margin-left: 5px;
-          
-          margin-right:5px;
-          
-          background-image: url("hello\ hyty.png");
-          
-          }
-          
-          
-          
-          .textoingles{
-          
-          text-align: justify;
-          
-          color: azure;
-          
-          font-size: 20px;
-          
-          
-          
-          }
-          .contenidoreli{
-
-            height: 280px;
-            
-            width: 100%;
-            
-            position: absolute;
-            
-            top: 410px;
-            
-             
-            
-            }
-            
-             
-            
-            .imagenreli{
-            
-             
-            
-            background-repeat: no-repeat;
-            
-            float:left;
-            
-            height: 244px;
-            
-            width: 470px;
-            
-            margin-left: 5px;
-            
-            margin-right:5px;
-            
-            background-image: url("mapa\ budismo.png");
-            
-            }
-            
-            
-            
-            .textoreli{
-            
-            text-align: justify;
-            
-            color: azure;
-            
+          .textotecno{
+      
             font-size: 20px;
             
+            text-align: center;
             
+            color: rgb(0, 0, 0);
+            
+             
             
             }
-            .contenidosocial{
-
-              height: 280px;
-              
-              width: 0%;
-              
-              position: absolute;
-              
-              top: 410px;
-              
-               
-              
-              }
-              
-               
-              
-              .imagensocial{
-              
-               
-              
+            .imagentecno{
+    
+     
+    
               background-repeat: no-repeat;
               
               float:left;
               
-              height: 200px;
+              height: 350px;
               
-              width: 260px;
+              width: 270px;
               
               margin-left: 5px;
               
               margin-right:5px;
               
-              background-image: url("hello\ hyty.png");
-              
-              }
-              
-              
-              
-              .textosocial{
-              
-              text-align: justify;
-              
-              color: azure;
-              
-              font-size: 20px;
-              
+              background-image: url(Dibujo.jpg.crdownload);
               
               
               }
+              .giftecno{
     
+     
     
+                background-repeat: no-repeat;
+                
+                float:right;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url(Image115.gif.crdownload);
+                
+                
+                }
+                .contenido{
+
+                  height: 280px;
+                  width: 100%;
+                  float: right;
+                  position: absolute;
+                  color: white;
+                  top: 300px;
+                  
+                  }
+                  .textosociales{
+              
+                    font-size: 20px;
+                    
+                    text-align: left;
+                    
+                    color: rgb(0, 0, 0);
+                  }
+                  .imagensociales{
     
-  
-  
-  
-  
-          
-  
-  
+     
+    
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 350px;
+                    
+                    width: 270px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url(th.jpg);
+                    
+                    
+                    }
+                    .contenido{
 
+                      height: 280px;
+                      width: 100%;
+                      float: right;
+                      position: absolute;
+                      color: white;
+                      top: 300px;
+                      
+                      }
+                      .textomatematicas{
+                  
+                        font-size: 20px;
+                        
+                        text-align: right;
+                        
+                        color: rgb(0, 0, 0);
+                      }
+                      .imagenmatematicas{
+    
+     
+    
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 900px;
+                        
+                        width: 900px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url(suma\ y\ resta\ de\ polinomios.jpg);
+                        
+                        
+                        }
+                        .contenido{
 
-
-
+                          height: 280px;
+                          width: 100%;
+                          float: right;
+                          position: absolute;
+                          color: white;
+                          top: 300px;
+                          
+                          }
+                          .textoingles{
+                      
+                            font-size: 20px;
+                            
+                            text-align: left;
+                            
+                            color: rgb(0, 0, 0);
+                          }
+                          .imageningles{
         
+         
+        
+                            background-repeat: no-repeat;
+                            
+                            float: right;
+                            
+                            height: 500px;
+                            
+                            width: 650px;
+                            
+                            margin-left: 5px;
+                            
+                            margin-right: 320px;
+                            
+                            background-image: url(enfermedades\ -ingles.jpg);
+                            
+                            
+                            }
+                            .contenido{
+
+                              height: 280px;
+                              width: 100%;
+                              float: right;
+                              position: absolute;
+                              color: white;
+                              top: 300px;
+                              
+                              }
+                              .textoreligion{
+                          
+                                font-size: 20px;
+                                
+                                text-align: center;
+                                
+                                color: rgb(0, 0, 0);
+                              }
+                              .imagenreligion{
+            
+             
+            
+                                background-repeat: no-repeat;
+                                
+                                float: left;
+                                
+                                height: 500px;
+                                
+                                width: 650px;
+                                
+                                margin-left: 5px;
+                                
+                                margin-right: 320px;
+                                
+                                background-image: url(ba8smiqn_bg.webp);
+                                
+                                
+                                }
+                                .contenido{
+
+                                  height: 280px;
+                                  width: 100%;
+                                  float: right;
+                                  position: absolute;
+                                  color: white;
+                                  top: 300px;
+                                  
+                                  }
+                                  .textobiologia{
+                              
+                                    font-size: 20px;
+                                    
+                                    text-align: right;
+                                    
+                                    color: rgb(0, 0, 0);
+                                  }
+                                  .imagenbiologia{
+                
+                 
+                
+                                    background-repeat: no-repeat;
+                                    
+                                    float: left;
+                                    
+                                    height: 800px;
+                                    
+                                    width: 1200px;
+                                    
+                                    margin-left: 5px;
+                                    
+                                    margin-right: 320px;
+                                    
+                                    background-image: url(renuncia-a-la-herencia-genetica.png);
+                                    
+                                    
+                                    }
+              
+          
+          
